@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\IMD\myerJaso_Asteroids\Assets\Scripts\PlayerControl.cs">
+    <Files>
+      <File FileName="..\..\..\..\IMD\myerJaso_Asteroids\Assets\Scripts\PlayerControl.cs" Line="66" Column="32" />
+      <File FileName="..\..\..\..\IMD\Tanks_Half\Assets\Scripts\Movement.cs" Line="102" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
